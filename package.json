@@ -18,7 +18,13 @@
   },
   "homepage": "https://github.com/Ali-Al-Khuwaja/Project-Restaurant-Page#readme",
   "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html": "^1.0.0",
+    "html-webpack-plugin": "^5.6.3",
+    "loader": "^2.1.1",
+    "style-loader": "^4.0.0",
     "webpack": "^5.99.9",
-    "webpack-cli": "^6.0.1"
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
   }
 }
