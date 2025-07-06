@@ -1,5 +1,5 @@
 import image_restaurant from "/src/assets/some_resturant.jpg";
-function initial_page_load() {
+function home_page_load() {
   // OMG I forgot how to js
   // Select that container element
   const content = document.getElementsByClassName("content")[0];
@@ -19,4 +19,4 @@ function initial_page_load() {
   content.appendChild(title);
   content.appendChild(paragraph);
 }
-export default initial_page_load;
+export default home_page_load;
